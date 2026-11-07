@@ -1,0 +1,154 @@
+# PNG / 1x1
+
+本目录收录宽高比约为 1:1 的 PNG 图片。用于正方形图片。
+
+## 分辨率子目录
+- `100px/`：长边实际100px。
+- `200px/`：长边实际200px。
+- `256px/`：长边实际256px。
+- `300px/`：长边实际300px。
+- `500px/`：长边实际500px。
+- `512px/`：长边实际512px。
+- `720px/`：长边实际720px。
+- `1080px/`：长边实际1080px。
+- `1440px/`：长边实际1440px。
+- `2K/`：长边1920–3839px。
+- `4K/`：长边3840–7679px。
+- `8K/`：长边7680–15359px。
+
+## 当前收录
+- `AI-512px-1.png`：512×512px，位于 `512px/`
+- `AI-512px-2.png`：512×512px，位于 `512px/`
+- `AI-512px-3.png`：512×512px，位于 `512px/`
+- `AI-512px-4.png`：512×512px，位于 `512px/`
+- `Anthropic-512px-1.png`：512×512px，位于 `512px/`
+- `Chatgpt-512px-1.png`：512×512px，位于 `512px/`
+- `Chatgpt-512px-2.png`：512×512px，位于 `512px/`
+- `Gemini-512px-1.png`：512×512px，位于 `512px/`
+- `Gemini-512px-2.png`：512×512px，位于 `512px/`
+- `OpenAI-512px-1.png`：512×512px，位于 `512px/`
+- `Asus-512px-1.png`：512×512px，位于 `512px/`
+- `Asus-512px-2.png`：512×512px，位于 `512px/`
+- `Apple-512px-4.png`：512×512px，位于 `512px/`
+- `Apple-512px-1.png`：512×512px，位于 `512px/`
+- `Apple-512px-2.png`：512×512px，位于 `512px/`
+- `Apple-512px-3.png`：512×512px，位于 `512px/`
+- `Google-512px-1.png`：512×512px，位于 `512px/`
+- `Google-512px-2.png`：512×512px，位于 `512px/`
+- `Google-512px-3.png`：512×512px，位于 `512px/`
+- `Microsoft-512px-1.png`：512×512px，位于 `512px/`
+- `Microsoft-512px-2.png`：512×512px，位于 `512px/`
+- `Microsoft-512px-3.png`：512×512px，位于 `512px/`
+- `Samsung-512px-1.png`：512×512px，位于 `512px/`
+- `Samsung-512px-2.png`：512×512px，位于 `512px/`
+- `Samsung-512px-3.png`：512×512px，位于 `512px/`
+- `Facebook-512px-1.png`：512×512px，位于 `512px/`
+- `Facebook-512px-2.png`：512×512px，位于 `512px/`
+- `Facebook-512px-3.png`：512×512px，位于 `512px/`
+- `Facebook-512px-4.png`：512×512px，位于 `512px/`
+- `Facebook-512px-5.png`：512×512px，位于 `512px/`
+- `Gmail-512px-4.png`：512×512px，位于 `512px/`
+- `Gmail-512px-1.png`：512×512px，位于 `512px/`
+- `Gmail-512px-2.png`：512×512px，位于 `512px/`
+- `Gmail-512px-3.png`：512×512px，位于 `512px/`
+- `Instagram-512px-1.png`：512×512px，位于 `512px/`
+- `Instagram-512px-2.png`：512×512px，位于 `512px/`
+- `Instagram-512px-3.png`：512×512px，位于 `512px/`
+- `Telegram-512px-1.png`：512×512px，位于 `512px/`
+- `Telegram-512px-2.png`：512×512px，位于 `512px/`
+- `Telegram-512px-3.png`：512×512px，位于 `512px/`
+- `Telegram-512px-4.png`：512×512px，位于 `512px/`
+- `TikTok-512px-1.png`：512×512px，位于 `512px/`
+- `TikTok-512px-2.png`：512×512px，位于 `512px/`
+- `TikTok-512px-3.png`：512×512px，位于 `512px/`
+- `Twitter-512px-1.png`：512×512px，位于 `512px/`
+- `Twitter-512px-2.png`：512×512px，位于 `512px/`
+- `Twitter-512px-3.png`：512×512px，位于 `512px/`
+- `Twitter-512px-4.png`：512×512px，位于 `512px/`
+- `WhatsApp-512px-1.png`：512×512px，位于 `512px/`
+- `WhatsApp-512px-2.png`：512×512px，位于 `512px/`
+- `WhatsApp-512px-3.png`：512×512px，位于 `512px/`
+- `Douyin-512px-1.png`：512×512px，位于 `512px/`
+- `Netflix-512px-1.png`：512×512px，位于 `512px/`
+- `Netflix-512px-2.png`：512×512px，位于 `512px/`
+- `Netflix-512px-3.png`：512×512px，位于 `512px/`
+- `Netflix-512px-4.png`：512×512px，位于 `512px/`
+- `Netflix-512px-5.png`：512×512px，位于 `512px/`
+- `Pixiv-512px-1.png`：512×512px，位于 `512px/`
+- `Pixiv-512px-2.png`：512×512px，位于 `512px/`
+- `Pixiv-512px-3.png`：512×512px，位于 `512px/`
+- `Spotify-512px-1.png`：512×512px，位于 `512px/`
+- `Spotify-512px-2.png`：512×512px，位于 `512px/`
+- `Steam-512px-1.png`：512×512px，位于 `512px/`
+- `Steam-512px-2.png`：512×512px，位于 `512px/`
+- `Steam-512px-3.png`：512×512px，位于 `512px/`
+- `Tube-512px-1.png`：512×512px，位于 `512px/`
+- `YouTube-512px-1.png`：512×512px，位于 `512px/`
+- `YouTube-512px-3.png`：512×512px，位于 `512px/`
+- `YouTube-512px-2.png`：512×512px，位于 `512px/`
+- `Game-512px-1.png`：512×512px，位于 `512px/`
+- `Switch-512px-1.png`：512×512px，位于 `512px/`
+- `GitHub-512px-1.png`：512×512px，位于 `512px/`
+- `GitHub-512px-2.png`：512×512px，位于 `512px/`
+- `GitHub-512px-3.png`：512×512px，位于 `512px/`
+- `Qiita-512px-1.png`：512×512px，位于 `512px/`
+- `FCM-512px-1.png`：512×512px，位于 `512px/`
+- `GoogleDrive-512px-1.png`：512×512px，位于 `512px/`
+- `PayPal-512px-1.png`：512×512px，位于 `512px/`
+- `PayPal-512px-2.png`：512×512px，位于 `512px/`
+- `PayPal-512px-3.png`：512×512px，位于 `512px/`
+- `PayPal-512px-4.png`：512×512px，位于 `512px/`
+- `Location-512px-1.png`：512×512px，位于 `512px/`
+- `AdBlock-512px-1.png`：512×512px，位于 `512px/`
+- `Browser-512px-1.png`：512×512px，位于 `512px/`
+- `Camera-512px-1.png`：512×512px，位于 `512px/`
+- `Speedtest-512px-1.png`：512×512px，位于 `512px/`
+- `Speedtest-512px-2.png`：512×512px，位于 `512px/`
+- `Speedtest-512px-3.png`：512×512px，位于 `512px/`
+- `Wifi-512px-1.png`：512×512px，位于 `512px/`
+- `China-512px-1.png`：512×512px，位于 `512px/`
+- `China-512px-2.png`：512×512px，位于 `512px/`
+- `China-512px-3.png`：512×512px，位于 `512px/`
+- `China-512px-4.png`：512×512px，位于 `512px/`
+- `Taiwan-512px-1.png`：512×512px，位于 `512px/`
+- `Taiwan-512px-2.png`：512×512px，位于 `512px/`
+- `Taiwan-512px-3.png`：512×512px，位于 `512px/`
+- `HongKong-512px-1.png`：512×512px，位于 `512px/`
+- `HongKong-512px-3.png`：512×512px，位于 `512px/`
+- `HongKong-512px-2.png`：512×512px，位于 `512px/`
+- `HongKong-512px-4.png`：512×512px，位于 `512px/`
+- `Guonei-512px-1.png`：512×512px，位于 `512px/`
+- `Guowai-512px-1.png`：512×512px，位于 `512px/`
+- `Singapore-512px-1.png`：512×512px，位于 `512px/`
+- `Singapore-512px-2.png`：512×512px，位于 `512px/`
+- `Singapore-512px-3.png`：512×512px，位于 `512px/`
+- `Singapore-512px-4.png`：512×512px，位于 `512px/`
+- `Japan-512px-1.png`：512×512px，位于 `512px/`
+- `Japan-512px-2.png`：512×512px，位于 `512px/`
+- `Japan-512px-3.png`：512×512px，位于 `512px/`
+- `Japan-512px-4.png`：512×512px，位于 `512px/`
+- `America-512px-4.png`：512×512px，位于 `512px/`
+- `America-512px-1.png`：512×512px，位于 `512px/`
+- `America-512px-2.png`：512×512px，位于 `512px/`
+- `America-512px-3.png`：512×512px，位于 `512px/`
+- `USA-512px-1.png`：512×512px，位于 `512px/`
+- `Korea-512px-1.png`：512×512px，位于 `512px/`
+- `Korea-512px-2.png`：512×512px，位于 `512px/`
+- `Korea-512px-3.png`：512×512px，位于 `512px/`
+- `Korea-512px-4.png`：512×512px，位于 `512px/`
+- `xxoxovx.png`：500×500px，位于 `500px/`
+- `Home-512px-1.png`：512×512px，位于 `512px/`
+- `Home-512px-2.png`：512×512px，位于 `512px/`
+- `Match-512px-1.png`：512×512px，位于 `512px/`
+- `Fault-512px-1.png`：512×512px，位于 `512px/`
+- `Fault-512px-2.png`：512×512px，位于 `512px/`
+- `Panda-512px-1.png`：512×512px，位于 `512px/`
+- `Auto-512px-1.png`：512×512px，位于 `512px/`
+- `Auto-512px-2.png`：512×512px，位于 `512px/`
+- `Auto-512px-3.png`：512×512px，位于 `512px/`
+- `Auto-512px-4.png`：512×512px，位于 `512px/`
+- `All-512px-1.png`：512×512px，位于 `512px/`
+- `All-512px-2.png`：512×512px，位于 `512px/`
+- `All-512px-3.png`：512×512px，位于 `512px/`
+
+比例允许约 1% 误差；超出范围放入 `other/`。
